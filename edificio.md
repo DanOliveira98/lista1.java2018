@@ -12,10 +12,8 @@ public class Edificio {
 			this.totalDePortas++;
 		}
 	}
-	
-//	public int quantasPortasEstaoAbertas() {
-//		
-//	}
+		public int quantasPortasEstaoAbertas() {
+	}
 	
 	public String getCor() {
 		return cor;
